@@ -1,1 +1,1 @@
-THIS IS A SCM FILE
+scm file was created by me
